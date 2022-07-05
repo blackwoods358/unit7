@@ -1,5 +1,3 @@
-package org.example;
-
 /**
  * Fibonacci class used for findinng the corresponding fibonacci num
  *
